@@ -19,7 +19,7 @@ class Books extends Component {
         return (
         //create Book component
         <div >
-            <SearchArea />
+            <SearchArea handleSearch={this.handleSearch} />
         </div>
         );
     }
