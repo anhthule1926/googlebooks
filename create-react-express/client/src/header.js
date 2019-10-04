@@ -11,5 +11,5 @@ const Header = () => {
         )
 }
 
-//exoort header comppnent
+//export header comppnent
 export default Header;
